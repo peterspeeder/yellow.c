@@ -1,2 +1,2 @@
 
-![alt text](https://github.com/peterspeeder/yellow.c/blob/main/Particle.png)
+![alt text](https://github.com/peterspeeder/yellow.c/blob/main/Particles.png)
